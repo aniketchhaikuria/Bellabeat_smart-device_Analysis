@@ -5,10 +5,10 @@ Welcome to the Bellabeat Case Study repository! This project explores user activ
 
 ## Contents
 - **`Bellabeat-Case-Study-Presentation.pdf`**: The main presentation file in PDF format.
-- **`scripts/`**: 
+- **`scripts`**: 
   - R scripts used for data analysis and generating visualizations.
   - SQL script for data extraction and manipulation.
-- **`data/`**: The dataset utilized for the analysis.
+- **`datasets/`**: The dataset utilized for the analysis.
 - **`images/`**: Additional images used in the presentation.
 - **`README.md`**: This file, providing an overview of the repository.
 
@@ -44,4 +44,5 @@ The analysis focuses on the following key areas:
 
 ## How to Use This Repository
 1. **Clone the Repository**: If you want to explore the scripts or data in detail, you can clone this repository to your local machine using:
-   ```bash. Here https://github.com/aniketchhaikuria/Bellabeat_smart-device_Analysis
+   ```bash.
+   [Here] (https://github.com/aniketchhaikuria/Bellabeat_smart-device_Analysis)
