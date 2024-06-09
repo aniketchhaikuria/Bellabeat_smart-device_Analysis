@@ -45,4 +45,4 @@ The analysis focuses on the following key areas:
 ## How to Use This Repository
 1. **Clone the Repository**: If you want to explore the scripts or data in detail, you can clone this repository to your local machine using:
    ```bash.
-   [Here] (https://github.com/aniketchhaikuria/Bellabeat_smart-device_Analysis)
+   (https://github.com/aniketchhaikuria/Bellabeat_smart-device_Analysis)
