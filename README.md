@@ -25,7 +25,9 @@ The analysis focuses on the following key areas:
 - **Weekday vs. Weekend Patterns**: Comparing user behaviors between weekdays and weekends.
 
 ### Key Visualizations
-1. **Average Daily Activity Patterns**: Visualization showcasing average daily activity patterns including steps, active minutes, and sedentary behavior.
+1. **Average Daily Activity Patterns**:
+**Description**: Visualization showcasing average daily activity patterns including steps, active minutes, and sedentary behavior.
+**Insight**: Users are generally more active on weekends compared to weekdays.
    ![Average daily activity patterns visualization](https://github.com/aniketchhaikuria/Bellabeat_smart-device_Analysis/assets/171453889/7a5606c7-78d5-45f2-98d5-d7dcb03ee7ea)
 
 2. **Daily Steps Over Time**: Line chart illustrating daily steps over time to identify trends and patterns.
