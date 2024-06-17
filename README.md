@@ -59,18 +59,18 @@ The analysis focuses on the following key areas:
 
 ## **Key Findings**
 
-1. **Activity Trends**
+**Activity Trends**
 - **Weekday vs. Weekend Activity**: Users are significantly more active on weekends. Marketing strategies could promote weekend activities and challenges.
 - **Daily Step Counts**: Steps peak during weekends, suggesting potential for weekend-specific promotions and community events.
 
-2. **Sleep Patterns**
+**Sleep Patterns**
 - **Weekend Sleep**: Users sleep longer on weekends. Insights can guide the development of features that encourage better weekday sleep habits.
 - **Sleep Quality**: Stable sleep efficiency across the week points to opportunities for promoting sleep-related features.
 
-3. **Sedentary Behavior**
+**Sedentary Behavior**
 - **Weekday Sedentary Time**: High sedentary minutes during weekdays reflect the impact of work schedules. Introducing features to encourage regular breaks could reduce sedentary behavior.
 
-4. Hydration and Activity:
+Hydration and Activity:
 - **Water Intake and Activity**: Users who are more active tend to stay better hydrated. Promoting the Bellabeat Spring water bottle with integrated hydration tracking could enhance user health and engagement.
 
 ## How to Use This Repository
